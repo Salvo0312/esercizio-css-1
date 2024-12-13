@@ -1,0 +1,21 @@
+p{
+    font-family: "Lato", sans-serif;
+    background-color: green;
+}
+
+h1, h2, h3{
+    font-family: "Roboto", sans-serif;
+    color: red;
+}
+
+.background {
+    background-image: url(https://picsum.photos/2000);
+}
+
+.backgroundcorsi {
+    background-color: red;
+}
+
+.hover:hover {
+    background-color: blue;
+}
